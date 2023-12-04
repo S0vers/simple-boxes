@@ -1,0 +1,123 @@
+.border {
+    border: 1px solid #e2e8f0;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+.sectionbg{
+    background-color: #f7fafc;
+}
+
+.py4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.rounded16px {
+    border-radius: 16px;
+}
+
+.maxw320px {
+    max-width: 320px;
+}
+
+.px4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.pb2 {
+    padding-bottom: 0.5rem;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.text2xl {
+    font-size: 1.5rem;
+}
+
+.textwhite {
+    color: black;
+}
+
+.fontsemibold {
+    font-weight: 600;
+}
+
+.textwhite50 {
+    color: rgba(12, 12, 12, 0.747);
+}
+
+.flex {
+    display: flex;
+}
+
+.justifybetween {
+    justify-content: space-between;
+}
+
+.textcenter {
+    text-align: center;
+    align-items: center;
+
+}
+
+.textsm {
+    font-size: 0.875rem;
+}
+
+.text39bb6b {
+    color: #23588e;
+}
+
+.bgtransparent {
+    background-color: transparent;
+}
+
+.bordergray400 {
+    border-color: gray;
+}
+
+.border29b47f {
+    border-color: #7498ba;
+}
+.border29b47f:hover {
+    border-color: #23588e;
+}
+.bg29b47f {
+    background-color: #23588e;
+}
+
+
+.bg29b47f:hover {
+    background-color: #7498ba;
+}
+
+.py2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.px4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mx4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.rounded18px {
+    border-radius: 18px;
+}
+
+.fontmedium {
+    font-weight: 500;
+}
+.justifycenter{
+    justify-content: center;
+}
+
+
+

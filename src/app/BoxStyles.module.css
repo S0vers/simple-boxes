@@ -1,0 +1,154 @@
+.wfull {
+    width: 100%;
+}
+
+.hfull {
+    height: 100%;
+}
+
+.maxw600px {
+    max-width: 600px;
+}
+
+.maxh400px {
+    max-height: 400px;
+}
+
+.overflowyclip {
+    overflow-y: clip;
+}
+
+.border {
+    border: 1px solid;
+}
+
+.rounded16px {
+    border-radius: 16px;
+}
+
+.bordergray400 {
+    border-color: gray;
+}
+
+.py6 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.px4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mx4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.my4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.rounded18px {
+    border-radius: 18px;
+}
+
+.bgblue50025 {
+    background-color: #23588e;
+}
+
+.textwhite60 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.textsm {
+    font-size: 0.875rem;
+}
+
+.textwhite {
+    color: white;
+}
+
+.text4xl {
+    font-size: 2.25rem;
+}
+
+.fontmedium {
+    font-weight: 500;
+}
+
+.trackingwide {
+    letter-spacing: 0.05em;
+}
+
+.leading10 {
+    line-height: 2.5rem;
+}
+
+.mt2 {
+    margin-top: 0.5rem;
+}
+
+.px5 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.textwhite50 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.textxs {
+    font-size: 0.75rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.justifybetween {
+    justify-content: space-between;
+}
+
+.alignmiddle {
+    vertical-align: middle;
+}
+
+.itemscenter {
+    align-items: center;
+}
+
+.gap2 {
+    gap: 0.5rem;
+}
+
+.roundedfull {
+    border-radius: 50%;
+}
+
+.py4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.my4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.bggray60050 {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+.textxl {
+    font-size: 1.25rem;
+}
+
+.text39bb6b {
+    color: #23588e;
+}
